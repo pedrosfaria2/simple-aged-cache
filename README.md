@@ -60,9 +60,3 @@ public class SimpleAgedCache {
     }
 }
 ```
-Hope you enjoy the exercise!
-
-Thanks, @barinek
-
-© 2021 by Initial Capacity, Inc. All rights reserved.
-
